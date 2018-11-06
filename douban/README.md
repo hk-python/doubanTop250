@@ -1,0 +1,1 @@
+	使用python中的Scrapy框架爬去豆瓣Top250的电影信息
